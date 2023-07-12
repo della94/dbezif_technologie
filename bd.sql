@@ -84,7 +84,7 @@ CREATE TABLE VENTE (
    
 );
 
-INSERT INTO VENTE (id_vente,)
+INSERT INTO VENTE (id_vente)
 VALUES() 
        
 
